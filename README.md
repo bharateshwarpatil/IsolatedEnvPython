@@ -5,7 +5,7 @@
 If you like to isolate enviroment , install virtual enviroment. 
 
 
-##### install  pip3 
+##### Install  pip3 
 
 Step1 : <b> brew install python </b>
 
