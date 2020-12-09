@@ -19,7 +19,7 @@ Now need activate enviroment
 
 Step4: <b> source env/bin/activate </b>
 
-Now enviroment Activate for you. Now you can install you required packaged.
+Now enviroment Activate for you. Now you can install your required packaged.
 
 pip3 install numpy
 
